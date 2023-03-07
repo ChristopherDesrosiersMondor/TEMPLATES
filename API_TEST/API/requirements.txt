@@ -1,0 +1,5 @@
+npm init -y
+npm i express mongoose cors dotenv swagger-ui-express swagger-autogen
+
+## Add to scripsts to generate doc from comments
+node swagger.js
